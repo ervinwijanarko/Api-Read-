@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">learnAPI</string>
+    <string name="btnJsonArray">JSON Array</string>
+    <string name="btnCovid">Covid19</string>
+    <string name="pantauan_covid_19_di_indonesia">Pantauan Covid-19 di Indonesia</string>
+    <string name="positifCaption">Positif :</string>
+    <string name="sembuhCaption">Sembuh :</string>
+    <string name="meninggalCaption">Meninggal :</string>
+</resources>
